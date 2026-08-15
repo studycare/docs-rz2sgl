@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://blog-faut0k.saturadar88win.sbs/sitemap.xml
